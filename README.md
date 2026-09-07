@@ -12,6 +12,16 @@ full-stack engineer building software for real business problems.
 
 ---
 
+## building @ QoroTech 🚀
+
+turning messy business processes into structured software.
+
+internal tools · billing systems · project tracking · automation
+
+→ [visit QoroTech](YOUR_QOROTECH_WEBSITE_URL)
+
+---
+
 ## what i build
 
 - internal business systems
@@ -21,16 +31,16 @@ full-stack engineer building software for real business problems.
 
 ---
 
-## a few things i've built 🚀
+## a few things i've built ⚡
 
 ### Construction Project Management System
-projects, labour, materials, expenses, payments + financial tracking
+`projects · labour · materials · expenses · payments · financial tracking`
 
 ### Internal Operations System
-site work, stock, billing, expenses + drawing-based estimates
+`site work · stock · billing · expenses · drawing-based estimates`
 
 ### Café Ordering System
-real-time waiter → counter → kitchen workflow using Socket.IO
+`waiter → counter → kitchen · real-time with Socket.IO`
 
 ---
 
@@ -41,6 +51,12 @@ real-time waiter → counter → kitchen workflow using Socket.IO
 </p>
 
 `System Design` · `Backend` · `DSA`
+
+---
+
+## github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mursaleenmk3&show_icons=true&hide_border=true)
 
 ---
 
