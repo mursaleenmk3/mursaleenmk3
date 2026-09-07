@@ -115,8 +115,12 @@ internal systems, billing, automation & custom workflows.
 ## GitHub Analytics
 
 
+
 <p align="center">
- 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mursaleenmk3&theme=github_dark"
+    height="170"
+  />
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mursaleenmk3&theme=github_dark"
@@ -124,8 +128,4 @@ internal systems, billing, automation & custom workflows.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mursaleenmk3&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"
-  />
-</p>
+
