@@ -1,9 +1,14 @@
 # hey, i'm Mursaleen 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Software+Engineer;Building+Software+for+Real+Business+Problems;TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Software+Engineer;Building+Software+for+Real+Business+Problems)](https://git.io/typing-svg)
+
 full-stack engineer building software for real business problems.
 
-currently working with  
-`TypeScript` `Next.js` `React` `Node.js` `PostgreSQL` `Prisma` `Docker`
+## stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,prisma,docker" />
+</p>
 
 ---
 
@@ -29,9 +34,13 @@ real-time waiter → counter → kitchen workflow using Socket.IO
 
 ---
 
-## currently getting better at
+## currently learning
 
-`AWS` `System Design` `Backend` `DSA`
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+`System Design` · `Backend` · `DSA`
 
 ---
 
