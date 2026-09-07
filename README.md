@@ -1,5 +1,5 @@
 # Hi, I'm Mursaleen 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Software+Engineer;Building+Software+for+Real+Business+Problems;TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL)](https://git.io/typing-svg)
 ### Full-Stack Software Engineer
 
 I turn real business problems into simple, reliable software systems.
