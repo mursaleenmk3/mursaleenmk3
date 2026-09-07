@@ -52,7 +52,7 @@ const mursaleen = {
 Building practical software for businesses —  
 internal operations, billing, automation & custom workflows.
 
-[![QoroTech](https://img.shields.io/badge/Visit_QoroTech-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_QOROTECH_WEBSITE_URL)
+[![QoroTech](https://img.shields.io/badge/Visit_QoroTech-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](www.qorotech.com)
 
 ---
 
