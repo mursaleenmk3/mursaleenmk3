@@ -2,19 +2,30 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=160&section=header&text=Mursaleen%20Kembhavi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40"
+    src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=165&section=header&text=Mursaleen%20Kembhavi&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"
     width="100%"
   />
-
-  <br/>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Software+for+Real+Business+Problems;TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL"
-  />
 </p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Software+for+Real+Business+Problems;TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Software+for+Real+Business+Problems;TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Software+for+Real+Business+Problems"
+    />
+  </picture>
+</p>
+
 <!-- ===================== ABOUT ===================== -->
 
-## 🧠 About Me
+## About Me
 
 ```ts
 const mursaleen = {
@@ -33,7 +44,7 @@ const mursaleen = {
     "PostgreSQL"
   ],
 
-  currentlyLearning: [
+  levelingUp: [
     "AWS",
     "System Design",
     "DSA"
@@ -47,26 +58,28 @@ const mursaleen = {
 
 <!-- ===================== QOROTECH ===================== -->
 
-## 🚀 Building @ QoroTech
+## Building @ QoroTech
 
 Building practical software for businesses —  
-internal operations, billing, automation & custom workflows.
+internal systems, billing, automation & custom workflows.
 
-[![QoroTech](https://img.shields.io/badge/Visit_QoroTech-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](www.qorotech.com)
+<a href="https://www.qorotech.com">
+  <img src="https://img.shields.io/badge/Visit_QoroTech-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 ---
 
 <!-- ===================== CONNECT ===================== -->
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/mursaleen-kembhavi-246848211">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:mursaleenmk.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -74,17 +87,17 @@ internal operations, billing, automation & custom workflows.
 
 <!-- ===================== TECH STACK ===================== -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,postgres,prisma,docker,git,github,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,postgres,prisma,docker,git,github,vercel,vscode&theme=dark" />
 </p>
 
 ---
 
 <!-- ===================== PROJECTS ===================== -->
 
-## ⚡ Selected Work
+## Selected Work
 
 ### Construction Project Management System
 `projects · labour · materials · expenses · payments`
@@ -99,7 +112,7 @@ internal operations, billing, automation & custom workflows.
 
 <!-- ===================== ANALYTICS ===================== -->
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img
@@ -122,6 +135,6 @@ internal operations, billing, automation & custom workflows.
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mursaleenmk3&theme=github-dark-blue&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mursaleenmk3&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"
   />
 </p>
