@@ -2,11 +2,16 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=180&section=header&text=Mursaleen%20Kembhavi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=160&section=header&text=Mursaleen%20Kembhavi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40"
     width="100%"
   />
-</p>
 
+  <br/>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Software+for+Real+Business+Problems;TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL"
+  />
+</p>
 <!-- ===================== ABOUT ===================== -->
 
 ## 🧠 About Me
