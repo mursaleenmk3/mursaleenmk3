@@ -35,14 +35,6 @@ real-time waiter → counter → kitchen workflow using Socket.IO
 
 ---
 
-## stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mursaleenmk3&show_icons=true&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mursaleenmk3&hide_border=true)
-
----
-
 ## find me here
 
 [LinkedIn](https://www.linkedin.com/in/mursaleen-kembhavi-246848211) ·
